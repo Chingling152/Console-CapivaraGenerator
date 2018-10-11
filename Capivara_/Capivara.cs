@@ -25,7 +25,8 @@ namespace CapivaraGenerator.Capivara_
             "Você não é tão bom assim , é um fracassado.",
             "Não acredite nas frases ditas por uma capivra",
             "Imposto é roubo",
-            "",
+            "for >>> foreach",
+            "O que o Naruto faria?",
             /**Lucas**/
             "Trap não é gay ;-; ",
             "Não é estupro se ela estiver morta",
@@ -35,12 +36,23 @@ namespace CapivaraGenerator.Capivara_
             "Você poderia ser uma merda pior",
             "MORRE QUE PASSA",
             "Se pega no olho....",
-            //Jefferson
+            "Comunismo funciona só com animais!!",
+            "SAAAASSSSUKEEEEEEE",
+            /**Jefferson**/
             "Palmeiras n tem mundial",
             "Html é programação sim caraleo",
             "Sou totalmente contra a extinção das capivaras, ok?",
+            /**Felipe**/
+            "Front-End é top",
+            "Back-End é top",
+            "Usem NoSQL para big data",
+            "usem SQL para regra de negócioss",
+            "Usem a metodologia Scrum para projetos",
+            "Fiz uma pipa sem saber graças ao Scrum",
+            "100% Jesus",
+            /** Gabriel **/
+            "Em briga de saci, qualquer chute é voadora",
         };
-
         public string gerarFala(){
             Random rdm = new Random();
             return falas[rdm.Next(0,falas.Length+1)];
