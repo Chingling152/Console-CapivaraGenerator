@@ -1,0 +1,11 @@
+C:\Users\47326175810\CapivaraGenerator\bin\Debug\netcoreapp2.1\CapivaraGenerator.deps.json
+C:\Users\47326175810\CapivaraGenerator\bin\Debug\netcoreapp2.1\CapivaraGenerator.runtimeconfig.json
+C:\Users\47326175810\CapivaraGenerator\bin\Debug\netcoreapp2.1\CapivaraGenerator.runtimeconfig.dev.json
+C:\Users\47326175810\CapivaraGenerator\bin\Debug\netcoreapp2.1\CapivaraGenerator.dll
+C:\Users\47326175810\CapivaraGenerator\bin\Debug\netcoreapp2.1\CapivaraGenerator.pdb
+C:\Users\47326175810\CapivaraGenerator\obj\Debug\netcoreapp2.1\CapivaraGenerator.csprojAssemblyReference.cache
+C:\Users\47326175810\CapivaraGenerator\obj\Debug\netcoreapp2.1\CapivaraGenerator.csproj.CoreCompileInputs.cache
+C:\Users\47326175810\CapivaraGenerator\obj\Debug\netcoreapp2.1\CapivaraGenerator.AssemblyInfoInputs.cache
+C:\Users\47326175810\CapivaraGenerator\obj\Debug\netcoreapp2.1\CapivaraGenerator.AssemblyInfo.cs
+C:\Users\47326175810\CapivaraGenerator\obj\Debug\netcoreapp2.1\CapivaraGenerator.dll
+C:\Users\47326175810\CapivaraGenerator\obj\Debug\netcoreapp2.1\CapivaraGenerator.pdb
