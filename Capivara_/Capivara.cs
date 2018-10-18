@@ -27,6 +27,7 @@ namespace CapivaraGenerator.Capivara_
             "Imposto é roubo",
             "for >>> foreach",
             "O que o Naruto faria?",
+            "Você vai ganhar na loteria e morrer no dia seguinte ;-;",
             /**Lucas**/
             "Trap não é gay ;-; ",
             "Não é estupro se ela estiver morta",
@@ -52,6 +53,8 @@ namespace CapivaraGenerator.Capivara_
             "100% Jesus",
             /** Gabriel **/
             "Em briga de saci, qualquer chute é voadora",
+            /**Ricardo**/
+            "Morte aos nazistas, brancos, negros, gays, heteros e todo mundo que restou"
         };
         public string gerarFala(){
             Random rdm = new Random();

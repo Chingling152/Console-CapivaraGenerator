@@ -39,7 +39,7 @@ namespace CapivaraGenerator
                     contador ++;        
                 }
             }
-            Console.WriteLine("\nAcabou ;-; é isso");
+            Console.ReadKey();
         }
     }
 }
